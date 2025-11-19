@@ -1,6 +1,6 @@
 body{
     color:white;
-    background: rgb(0, 0, 0);
+    background: black;
     margin: 0px;
     font-family: "Bungee", sans-serif ;
     margin-bottom: 100px;
@@ -10,7 +10,7 @@ header{
     border: solid 2px pink;
     padding: 20px;
     font-size: 32px;
-    color: aqua;
+    color: rgb(46, 8, 61);
 }
 
 .chamada{
@@ -53,5 +53,5 @@ p{
     border: 1px solid white;
 }
 .categoria h2{
-    color: aqua;
+    color: rgb(61, 19, 100);
 }
